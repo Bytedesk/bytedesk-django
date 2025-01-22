@@ -1,0 +1,16 @@
+django_bytedesk/
+├── django_bytedesk/
+│   ├── __init__.py
+│   ├── apps.py
+│   ├── models.py
+│   ├── admin.py
+│   ├── templates/
+│   │   └── django_bytedesk/
+│   │       └── widget.html
+│   └── templatetags/
+│       ├── __init__.py
+│       └── bytedesk_tags.py
+├── setup.py
+├── MANIFEST.in
+├── LICENSE
+└── README.md 
